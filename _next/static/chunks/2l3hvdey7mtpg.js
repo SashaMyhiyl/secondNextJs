@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,13097,e=>{e.q("/secondNextJs/_next/static/media/LogoPlant.1s2n1abbnb8sc.png")},47108,e=>{e.q("/secondNextJs/_next/static/media/MainTree.1az_pdescqd41.png")}]);
